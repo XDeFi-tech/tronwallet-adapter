@@ -65,7 +65,7 @@
         ]
     },
     "devDependencies": {
-        "webpack": "^5.78.0"
+        "webpack": "^5.94.0"
     },
     "overrides": {
         "@ledgerhq/errors": "6.10.0",
